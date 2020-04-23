@@ -12,7 +12,4 @@
 #
 # capture.release() #VideoCapture의 장치를 닫고 메모리를 해제
 # cv2.destroyAllWindows()
-
-# 구문오류 -> syntax error
-# 런타임에러
-# 논리오류
+# a = [input().split(" ")]
