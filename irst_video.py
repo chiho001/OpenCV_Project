@@ -1,10 +1,9 @@
-# #video 출력 소스
-# import cv2
-# capture = cv2.VideoCapture("Saved_Video_lookdown.raw")
+#video 출력 소스
+# capture = cv2.VideoCapture("Star.mp4")
 #
 # while True:
 #     if capture.get(cv2.CAP_PROP_POS_FRAMES) == capture.get(cv2.CAP_PROP_FRAME_COUNT):
-#         capture.open("Saved_Video_lookdown.raw")
+#         capture.open("Star.mp4")
 #
 #     ret, frame = capture.read()
 #     cv2.imshow("VideoFrame", frame)
